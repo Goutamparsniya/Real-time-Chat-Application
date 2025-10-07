@@ -1,2 +1,2 @@
-# Real-time-Chat-Application
-This project is a Real-Time Chat Application that allows users to communicate instantly via text messages. It supports multiple users in different chat rooms, delivering messages in real-time using WebSockets technology.
+✨ Realtime Full-Stack Chat Application
+Developed a full-stack real-time chat app using MERN (MongoDB, Express, React, Node.js) with Socket.io for instant messaging. Implemented JWT-based authentication, online user tracking, and efficient state management using Zustand. Designed a responsive UI with TailwindCSS and DaisyUI, ensuring seamless user experience. Deployed the application end-to-end, demonstrating expertise in real-time systems, backend integration, and frontend design.
